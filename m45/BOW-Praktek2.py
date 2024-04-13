@@ -49,4 +49,4 @@ def PlotWordCloud(frequency):
     plot.axis("off")
     plot.show()
 
-PlotWordCloud(d)
+PlotWordCloud()
